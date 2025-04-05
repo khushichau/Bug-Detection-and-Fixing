@@ -1,5 +1,10 @@
 # 🐛 Bug Detection and Fixing using Deep Learning
 
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-ff69b4)
+
 This project is developed as part of the **Intel Unnati Industrial Training Program 2025**. It aims to **detect and fix bugs in source code** using deep learning models such as **CodeBERT** and **CodeT5**. The tool analyzes buggy code snippets and automatically generates the corrected version, helping developers write better and cleaner code.
 
 ---
