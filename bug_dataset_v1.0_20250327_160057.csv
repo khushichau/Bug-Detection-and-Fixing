@@ -1,0 +1,1241 @@
+code,category,label,source,bug_type,original_hash,generation_date,version
+"def variant_0_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_1_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_2_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_3_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_4_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_5_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_6_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_7_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_8_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_9_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_10_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_11_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_12_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_13_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_14_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_15_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_16_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_17_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_18_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_19_add(a, b):
+    return a + b",arithmetic,0,base_pattern,,,20250327_160057,1.0
+"def variant_0_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_1_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_2_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_3_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_4_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_5_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_6_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_7_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_8_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_9_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_10_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_11_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_12_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_13_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_14_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_15_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_16_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_17_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_18_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_19_sqrt(x):
+    return x ** 0.5",math,0,base_pattern,,,20250327_160057,1.0
+"def variant_0_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_1_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_2_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_3_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_4_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_5_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_6_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_7_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_8_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_9_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_10_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_11_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_12_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_13_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_14_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_15_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_16_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_17_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_18_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_19_reverse(s):
+    return s[::-1]",string,0,base_pattern,,,20250327_160057,1.0
+"def variant_0_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_1_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_2_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_3_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_4_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_5_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_6_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_7_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_8_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_9_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_10_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_11_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_12_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_13_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_14_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_15_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_16_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_17_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_18_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_19_is_even(n):
+    return n % 2 == 0",control,0,base_pattern,,,20250327_160057,1.0
+"def variant_0_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_1_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_2_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_3_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_4_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_5_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_6_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_7_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_8_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_9_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_10_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_11_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_12_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_13_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_14_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_15_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_16_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_17_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_18_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_19_list_sum(lst):
+    return sum(lst)",list,0,base_pattern,,,20250327_160057,1.0
+"def variant_0_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_1_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_2_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_3_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_4_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_5_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_6_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_7_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_8_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_9_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_10_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_11_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_12_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_13_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_14_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_15_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_16_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_17_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_18_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_19_safe_divide(a, b):
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",exception,0,base_pattern,,,20250327_160057,1.0
+"def variant_0_add(a, b)
+    return a + b",,1,synthetic,missing_colon,67b433dc8311385b6e4f6d4dd04d8fea,20250327_160057,1.0
+"def variant_0_adda, b:
+    return a + b",,1,synthetic,missing_paren,67b433dc8311385b6e4f6d4dd04d8fea,20250327_160057,1.0
+"def variant_0_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,67b433dc8311385b6e4f6d4dd04d8fea,20250327_160057,1.0
+"def variant_0_add(a, b):
+    retrun a + b",,1,synthetic,name_error,67b433dc8311385b6e4f6d4dd04d8fea,20250327_160057,1.0
+"def variant_1_add(a, b)
+    return a + b",,1,synthetic,missing_colon,de35734d763412d36eb777d71ef8d120,20250327_160057,1.0
+"def variant_1_adda, b:
+    return a + b",,1,synthetic,missing_paren,de35734d763412d36eb777d71ef8d120,20250327_160057,1.0
+"def variant_1_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,de35734d763412d36eb777d71ef8d120,20250327_160057,1.0
+"def variant_1_add(a, b):
+    retrun a + b",,1,synthetic,name_error,de35734d763412d36eb777d71ef8d120,20250327_160057,1.0
+"def variant_2_add(a, b)
+    return a + b",,1,synthetic,missing_colon,d378491c72d0aea914826ffaf9fb88eb,20250327_160057,1.0
+"def variant_2_adda, b:
+    return a + b",,1,synthetic,missing_paren,d378491c72d0aea914826ffaf9fb88eb,20250327_160057,1.0
+"def variant_2_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,d378491c72d0aea914826ffaf9fb88eb,20250327_160057,1.0
+"def variant_2_add(a, b):
+    retrun a + b",,1,synthetic,name_error,d378491c72d0aea914826ffaf9fb88eb,20250327_160057,1.0
+"def variant_3_add(a, b)
+    return a + b",,1,synthetic,missing_colon,b9e55ae3f15f6d9840f41199a6108dcc,20250327_160057,1.0
+"def variant_3_adda, b:
+    return a + b",,1,synthetic,missing_paren,b9e55ae3f15f6d9840f41199a6108dcc,20250327_160057,1.0
+"def variant_3_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,b9e55ae3f15f6d9840f41199a6108dcc,20250327_160057,1.0
+"def variant_3_add(a, b):
+    retrun a + b",,1,synthetic,name_error,b9e55ae3f15f6d9840f41199a6108dcc,20250327_160057,1.0
+"def variant_4_add(a, b)
+    return a + b",,1,synthetic,missing_colon,c85ff360d9e40ed231c07b7b0805195c,20250327_160057,1.0
+"def variant_4_adda, b:
+    return a + b",,1,synthetic,missing_paren,c85ff360d9e40ed231c07b7b0805195c,20250327_160057,1.0
+"def variant_4_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,c85ff360d9e40ed231c07b7b0805195c,20250327_160057,1.0
+"def variant_4_add(a, b):
+    retrun a + b",,1,synthetic,name_error,c85ff360d9e40ed231c07b7b0805195c,20250327_160057,1.0
+"def variant_5_add(a, b)
+    return a + b",,1,synthetic,missing_colon,1d7a8d136ec31e3964147a2ab8a8cea0,20250327_160057,1.0
+"def variant_5_adda, b:
+    return a + b",,1,synthetic,missing_paren,1d7a8d136ec31e3964147a2ab8a8cea0,20250327_160057,1.0
+"def variant_5_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,1d7a8d136ec31e3964147a2ab8a8cea0,20250327_160057,1.0
+"def variant_5_add(a, b):
+    retrun a + b",,1,synthetic,name_error,1d7a8d136ec31e3964147a2ab8a8cea0,20250327_160057,1.0
+"def variant_6_add(a, b)
+    return a + b",,1,synthetic,missing_colon,b9e80359ec801bf4a0a37d9a41722f1a,20250327_160057,1.0
+"def variant_6_adda, b:
+    return a + b",,1,synthetic,missing_paren,b9e80359ec801bf4a0a37d9a41722f1a,20250327_160057,1.0
+"def variant_6_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,b9e80359ec801bf4a0a37d9a41722f1a,20250327_160057,1.0
+"def variant_6_add(a, b):
+    retrun a + b",,1,synthetic,name_error,b9e80359ec801bf4a0a37d9a41722f1a,20250327_160057,1.0
+"def variant_7_add(a, b)
+    return a + b",,1,synthetic,missing_colon,54a1a93ce0aea2724f1e5c50676c6850,20250327_160057,1.0
+"def variant_7_adda, b:
+    return a + b",,1,synthetic,missing_paren,54a1a93ce0aea2724f1e5c50676c6850,20250327_160057,1.0
+"def variant_7_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,54a1a93ce0aea2724f1e5c50676c6850,20250327_160057,1.0
+"def variant_7_add(a, b):
+    retrun a + b",,1,synthetic,name_error,54a1a93ce0aea2724f1e5c50676c6850,20250327_160057,1.0
+"def variant_8_add(a, b)
+    return a + b",,1,synthetic,missing_colon,b5374927bdf336635a979fb74355afd9,20250327_160057,1.0
+"def variant_8_adda, b:
+    return a + b",,1,synthetic,missing_paren,b5374927bdf336635a979fb74355afd9,20250327_160057,1.0
+"def variant_8_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,b5374927bdf336635a979fb74355afd9,20250327_160057,1.0
+"def variant_8_add(a, b):
+    retrun a + b",,1,synthetic,name_error,b5374927bdf336635a979fb74355afd9,20250327_160057,1.0
+"def variant_9_add(a, b)
+    return a + b",,1,synthetic,missing_colon,2a52d3581c27f45cf071d3952174c263,20250327_160057,1.0
+"def variant_9_adda, b:
+    return a + b",,1,synthetic,missing_paren,2a52d3581c27f45cf071d3952174c263,20250327_160057,1.0
+"def variant_9_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,2a52d3581c27f45cf071d3952174c263,20250327_160057,1.0
+"def variant_9_add(a, b):
+    retrun a + b",,1,synthetic,name_error,2a52d3581c27f45cf071d3952174c263,20250327_160057,1.0
+"def variant_10_add(a, b)
+    return a + b",,1,synthetic,missing_colon,b6d10e22a70bc5f577d1162b4d08ba8b,20250327_160057,1.0
+"def variant_10_adda, b:
+    return a + b",,1,synthetic,missing_paren,b6d10e22a70bc5f577d1162b4d08ba8b,20250327_160057,1.0
+"def variant_10_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,b6d10e22a70bc5f577d1162b4d08ba8b,20250327_160057,1.0
+"def variant_10_add(a, b):
+    retrun a + b",,1,synthetic,name_error,b6d10e22a70bc5f577d1162b4d08ba8b,20250327_160057,1.0
+"def variant_11_add(a, b)
+    return a + b",,1,synthetic,missing_colon,1f09defb938d64be977b4eff808c0be4,20250327_160057,1.0
+"def variant_11_adda, b:
+    return a + b",,1,synthetic,missing_paren,1f09defb938d64be977b4eff808c0be4,20250327_160057,1.0
+"def variant_11_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,1f09defb938d64be977b4eff808c0be4,20250327_160057,1.0
+"def variant_11_add(a, b):
+    retrun a + b",,1,synthetic,name_error,1f09defb938d64be977b4eff808c0be4,20250327_160057,1.0
+"def variant_12_add(a, b)
+    return a + b",,1,synthetic,missing_colon,62ce678628653994fdfdf3453847b173,20250327_160057,1.0
+"def variant_12_adda, b:
+    return a + b",,1,synthetic,missing_paren,62ce678628653994fdfdf3453847b173,20250327_160057,1.0
+"def variant_12_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,62ce678628653994fdfdf3453847b173,20250327_160057,1.0
+"def variant_12_add(a, b):
+    retrun a + b",,1,synthetic,name_error,62ce678628653994fdfdf3453847b173,20250327_160057,1.0
+"def variant_13_add(a, b)
+    return a + b",,1,synthetic,missing_colon,b7aad3f25ff05f4bb57e3ed0339b2c70,20250327_160057,1.0
+"def variant_13_adda, b:
+    return a + b",,1,synthetic,missing_paren,b7aad3f25ff05f4bb57e3ed0339b2c70,20250327_160057,1.0
+"def variant_13_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,b7aad3f25ff05f4bb57e3ed0339b2c70,20250327_160057,1.0
+"def variant_13_add(a, b):
+    retrun a + b",,1,synthetic,name_error,b7aad3f25ff05f4bb57e3ed0339b2c70,20250327_160057,1.0
+"def variant_14_add(a, b)
+    return a + b",,1,synthetic,missing_colon,325a8715828d83b521d6d2981c55325d,20250327_160057,1.0
+"def variant_14_adda, b:
+    return a + b",,1,synthetic,missing_paren,325a8715828d83b521d6d2981c55325d,20250327_160057,1.0
+"def variant_14_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,325a8715828d83b521d6d2981c55325d,20250327_160057,1.0
+"def variant_14_add(a, b):
+    retrun a + b",,1,synthetic,name_error,325a8715828d83b521d6d2981c55325d,20250327_160057,1.0
+"def variant_15_add(a, b)
+    return a + b",,1,synthetic,missing_colon,ef036a1e539c24466c07215f28385f9e,20250327_160057,1.0
+"def variant_15_adda, b:
+    return a + b",,1,synthetic,missing_paren,ef036a1e539c24466c07215f28385f9e,20250327_160057,1.0
+"def variant_15_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,ef036a1e539c24466c07215f28385f9e,20250327_160057,1.0
+"def variant_15_add(a, b):
+    retrun a + b",,1,synthetic,name_error,ef036a1e539c24466c07215f28385f9e,20250327_160057,1.0
+"def variant_16_add(a, b)
+    return a + b",,1,synthetic,missing_colon,8090f6ff165125f8e6454e88da90fcc9,20250327_160057,1.0
+"def variant_16_adda, b:
+    return a + b",,1,synthetic,missing_paren,8090f6ff165125f8e6454e88da90fcc9,20250327_160057,1.0
+"def variant_16_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,8090f6ff165125f8e6454e88da90fcc9,20250327_160057,1.0
+"def variant_16_add(a, b):
+    retrun a + b",,1,synthetic,name_error,8090f6ff165125f8e6454e88da90fcc9,20250327_160057,1.0
+"def variant_17_add(a, b)
+    return a + b",,1,synthetic,missing_colon,fefb2bd7f4bfe89e9d352278053eeae8,20250327_160057,1.0
+"def variant_17_adda, b:
+    return a + b",,1,synthetic,missing_paren,fefb2bd7f4bfe89e9d352278053eeae8,20250327_160057,1.0
+"def variant_17_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,fefb2bd7f4bfe89e9d352278053eeae8,20250327_160057,1.0
+"def variant_17_add(a, b):
+    retrun a + b",,1,synthetic,name_error,fefb2bd7f4bfe89e9d352278053eeae8,20250327_160057,1.0
+"def variant_18_add(a, b)
+    return a + b",,1,synthetic,missing_colon,5550779847a7fc60f1865e64374c7517,20250327_160057,1.0
+"def variant_18_adda, b:
+    return a + b",,1,synthetic,missing_paren,5550779847a7fc60f1865e64374c7517,20250327_160057,1.0
+"def variant_18_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,5550779847a7fc60f1865e64374c7517,20250327_160057,1.0
+"def variant_18_add(a, b):
+    retrun a + b",,1,synthetic,name_error,5550779847a7fc60f1865e64374c7517,20250327_160057,1.0
+"def variant_19_add(a, b)
+    return a + b",,1,synthetic,missing_colon,881bc8cddb8752371ceed3128f9444b6,20250327_160057,1.0
+"def variant_19_adda, b:
+    return a + b",,1,synthetic,missing_paren,881bc8cddb8752371ceed3128f9444b6,20250327_160057,1.0
+"def variant_19_add(a, b):
+    return a + 'string' b",,1,synthetic,type_error,881bc8cddb8752371ceed3128f9444b6,20250327_160057,1.0
+"def variant_19_add(a, b):
+    retrun a + b",,1,synthetic,name_error,881bc8cddb8752371ceed3128f9444b6,20250327_160057,1.0
+"def variant_0_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,f186f624705681e74c18becebfa69fd7,20250327_160057,1.0
+"def variant_0_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,f186f624705681e74c18becebfa69fd7,20250327_160057,1.0
+"def variant_0_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,f186f624705681e74c18becebfa69fd7,20250327_160057,1.0
+"def variant_1_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,0cd7504b387e187f4f35525caf016a30,20250327_160057,1.0
+"def variant_1_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,0cd7504b387e187f4f35525caf016a30,20250327_160057,1.0
+"def variant_1_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,0cd7504b387e187f4f35525caf016a30,20250327_160057,1.0
+"def variant_2_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,0b60d0d9646bef305bb9f26ab084bdfb,20250327_160057,1.0
+"def variant_2_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,0b60d0d9646bef305bb9f26ab084bdfb,20250327_160057,1.0
+"def variant_2_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,0b60d0d9646bef305bb9f26ab084bdfb,20250327_160057,1.0
+"def variant_3_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,d955ae3e7ed817f6f5048ea1df7f1f6f,20250327_160057,1.0
+"def variant_3_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,d955ae3e7ed817f6f5048ea1df7f1f6f,20250327_160057,1.0
+"def variant_3_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,d955ae3e7ed817f6f5048ea1df7f1f6f,20250327_160057,1.0
+"def variant_4_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,4b327f72009b08c5a6e3683c27a1f812,20250327_160057,1.0
+"def variant_4_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,4b327f72009b08c5a6e3683c27a1f812,20250327_160057,1.0
+"def variant_4_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,4b327f72009b08c5a6e3683c27a1f812,20250327_160057,1.0
+"def variant_5_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,d822baadda405d476e30eb801599d15b,20250327_160057,1.0
+"def variant_5_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,d822baadda405d476e30eb801599d15b,20250327_160057,1.0
+"def variant_5_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,d822baadda405d476e30eb801599d15b,20250327_160057,1.0
+"def variant_6_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,23c1785abd713b322a05484285e79e7e,20250327_160057,1.0
+"def variant_6_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,23c1785abd713b322a05484285e79e7e,20250327_160057,1.0
+"def variant_6_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,23c1785abd713b322a05484285e79e7e,20250327_160057,1.0
+"def variant_7_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,ff959a931717c9fb5b70b6a74db2752a,20250327_160057,1.0
+"def variant_7_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,ff959a931717c9fb5b70b6a74db2752a,20250327_160057,1.0
+"def variant_7_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,ff959a931717c9fb5b70b6a74db2752a,20250327_160057,1.0
+"def variant_8_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,c13d9cb00c3e9e8de30fd2ecb366f53e,20250327_160057,1.0
+"def variant_8_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,c13d9cb00c3e9e8de30fd2ecb366f53e,20250327_160057,1.0
+"def variant_8_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,c13d9cb00c3e9e8de30fd2ecb366f53e,20250327_160057,1.0
+"def variant_9_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,1f381430a4bda495a2eab556dd038e63,20250327_160057,1.0
+"def variant_9_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,1f381430a4bda495a2eab556dd038e63,20250327_160057,1.0
+"def variant_9_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,1f381430a4bda495a2eab556dd038e63,20250327_160057,1.0
+"def variant_10_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,738b80b19957fb6d1be2288f58019eac,20250327_160057,1.0
+"def variant_10_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,738b80b19957fb6d1be2288f58019eac,20250327_160057,1.0
+"def variant_10_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,738b80b19957fb6d1be2288f58019eac,20250327_160057,1.0
+"def variant_11_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,19da9f014621be7a614b4164e06412a1,20250327_160057,1.0
+"def variant_11_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,19da9f014621be7a614b4164e06412a1,20250327_160057,1.0
+"def variant_11_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,19da9f014621be7a614b4164e06412a1,20250327_160057,1.0
+"def variant_12_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,c5e078b63db12581dbb4931099ca16ef,20250327_160057,1.0
+"def variant_12_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,c5e078b63db12581dbb4931099ca16ef,20250327_160057,1.0
+"def variant_12_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,c5e078b63db12581dbb4931099ca16ef,20250327_160057,1.0
+"def variant_13_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,9d275a6b7bdd0d148616df5e28075555,20250327_160057,1.0
+"def variant_13_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,9d275a6b7bdd0d148616df5e28075555,20250327_160057,1.0
+"def variant_13_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,9d275a6b7bdd0d148616df5e28075555,20250327_160057,1.0
+"def variant_14_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,573afbd44e8601833d4fdeb4ad70934a,20250327_160057,1.0
+"def variant_14_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,573afbd44e8601833d4fdeb4ad70934a,20250327_160057,1.0
+"def variant_14_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,573afbd44e8601833d4fdeb4ad70934a,20250327_160057,1.0
+"def variant_15_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,575d1a4b3081517095e8dd46ce7c3eda,20250327_160057,1.0
+"def variant_15_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,575d1a4b3081517095e8dd46ce7c3eda,20250327_160057,1.0
+"def variant_15_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,575d1a4b3081517095e8dd46ce7c3eda,20250327_160057,1.0
+"def variant_16_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,38069eb8a08f901753a00206d67f7ee7,20250327_160057,1.0
+"def variant_16_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,38069eb8a08f901753a00206d67f7ee7,20250327_160057,1.0
+"def variant_16_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,38069eb8a08f901753a00206d67f7ee7,20250327_160057,1.0
+"def variant_17_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,73b51fb9a26dd7eac31d1dc63509a237,20250327_160057,1.0
+"def variant_17_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,73b51fb9a26dd7eac31d1dc63509a237,20250327_160057,1.0
+"def variant_17_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,73b51fb9a26dd7eac31d1dc63509a237,20250327_160057,1.0
+"def variant_18_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,99e3210251fd12407000a732287e786e,20250327_160057,1.0
+"def variant_18_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,99e3210251fd12407000a732287e786e,20250327_160057,1.0
+"def variant_18_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,99e3210251fd12407000a732287e786e,20250327_160057,1.0
+"def variant_19_sqrt(x)
+    return x ** 0.5",,1,synthetic,missing_colon,ac42f860d365d4ab07d9278176b39ffc,20250327_160057,1.0
+"def variant_19_sqrtx:
+    return x ** 0.5",,1,synthetic,missing_paren,ac42f860d365d4ab07d9278176b39ffc,20250327_160057,1.0
+"def variant_19_sqrt(x):
+    retrun x ** 0.5",,1,synthetic,name_error,ac42f860d365d4ab07d9278176b39ffc,20250327_160057,1.0
+"def variant_0_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,925711e7a680e0b684006727bc1a4b0e,20250327_160057,1.0
+"def variant_0_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,925711e7a680e0b684006727bc1a4b0e,20250327_160057,1.0
+"def variant_0_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,925711e7a680e0b684006727bc1a4b0e,20250327_160057,1.0
+"def variant_1_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,13ffce7991c9216e0099fdb315b4973f,20250327_160057,1.0
+"def variant_1_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,13ffce7991c9216e0099fdb315b4973f,20250327_160057,1.0
+"def variant_1_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,13ffce7991c9216e0099fdb315b4973f,20250327_160057,1.0
+"def variant_2_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,c2120432473d264017527acd42bd471b,20250327_160057,1.0
+"def variant_2_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,c2120432473d264017527acd42bd471b,20250327_160057,1.0
+"def variant_2_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,c2120432473d264017527acd42bd471b,20250327_160057,1.0
+"def variant_3_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,05df44499820165ff9b2b580f46afa5c,20250327_160057,1.0
+"def variant_3_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,05df44499820165ff9b2b580f46afa5c,20250327_160057,1.0
+"def variant_3_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,05df44499820165ff9b2b580f46afa5c,20250327_160057,1.0
+"def variant_4_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,6d129097dae6fdea8624c07d9f53f440,20250327_160057,1.0
+"def variant_4_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,6d129097dae6fdea8624c07d9f53f440,20250327_160057,1.0
+"def variant_4_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,6d129097dae6fdea8624c07d9f53f440,20250327_160057,1.0
+"def variant_5_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,9cb1c419625b13ae3e2239d1242c4720,20250327_160057,1.0
+"def variant_5_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,9cb1c419625b13ae3e2239d1242c4720,20250327_160057,1.0
+"def variant_5_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,9cb1c419625b13ae3e2239d1242c4720,20250327_160057,1.0
+"def variant_6_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,bdb4ee273006383ae6df194334247315,20250327_160057,1.0
+"def variant_6_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,bdb4ee273006383ae6df194334247315,20250327_160057,1.0
+"def variant_6_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,bdb4ee273006383ae6df194334247315,20250327_160057,1.0
+"def variant_7_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,c34218895c00011372691db8f121d777,20250327_160057,1.0
+"def variant_7_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,c34218895c00011372691db8f121d777,20250327_160057,1.0
+"def variant_7_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,c34218895c00011372691db8f121d777,20250327_160057,1.0
+"def variant_8_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,bca75f3ab196949fce6a05a9eef28d62,20250327_160057,1.0
+"def variant_8_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,bca75f3ab196949fce6a05a9eef28d62,20250327_160057,1.0
+"def variant_8_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,bca75f3ab196949fce6a05a9eef28d62,20250327_160057,1.0
+"def variant_9_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,4c9346baff8ec0706139efa58fb695d5,20250327_160057,1.0
+"def variant_9_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,4c9346baff8ec0706139efa58fb695d5,20250327_160057,1.0
+"def variant_9_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,4c9346baff8ec0706139efa58fb695d5,20250327_160057,1.0
+"def variant_10_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,3e6ddc00c0641795bd4c18045692c6e8,20250327_160057,1.0
+"def variant_10_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,3e6ddc00c0641795bd4c18045692c6e8,20250327_160057,1.0
+"def variant_10_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,3e6ddc00c0641795bd4c18045692c6e8,20250327_160057,1.0
+"def variant_11_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,ac1f123aef158261c58a92a2756e581b,20250327_160057,1.0
+"def variant_11_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,ac1f123aef158261c58a92a2756e581b,20250327_160057,1.0
+"def variant_11_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,ac1f123aef158261c58a92a2756e581b,20250327_160057,1.0
+"def variant_12_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,12289c29605ba6ff47eb49dac5e9bdf6,20250327_160057,1.0
+"def variant_12_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,12289c29605ba6ff47eb49dac5e9bdf6,20250327_160057,1.0
+"def variant_12_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,12289c29605ba6ff47eb49dac5e9bdf6,20250327_160057,1.0
+"def variant_13_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,a802fa69a3f183f3572d9634342d9868,20250327_160057,1.0
+"def variant_13_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,a802fa69a3f183f3572d9634342d9868,20250327_160057,1.0
+"def variant_13_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,a802fa69a3f183f3572d9634342d9868,20250327_160057,1.0
+"def variant_14_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,3c8233fa1f8e1c21fb7e96d59398c28e,20250327_160057,1.0
+"def variant_14_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,3c8233fa1f8e1c21fb7e96d59398c28e,20250327_160057,1.0
+"def variant_14_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,3c8233fa1f8e1c21fb7e96d59398c28e,20250327_160057,1.0
+"def variant_15_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,3861d387aee3889458254e6576c27c11,20250327_160057,1.0
+"def variant_15_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,3861d387aee3889458254e6576c27c11,20250327_160057,1.0
+"def variant_15_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,3861d387aee3889458254e6576c27c11,20250327_160057,1.0
+"def variant_16_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,ab30f198fca1bdd43b45c16d4979e88a,20250327_160057,1.0
+"def variant_16_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,ab30f198fca1bdd43b45c16d4979e88a,20250327_160057,1.0
+"def variant_16_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,ab30f198fca1bdd43b45c16d4979e88a,20250327_160057,1.0
+"def variant_17_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,e5e5332a4ba604a0948c0f7f9feda8d5,20250327_160057,1.0
+"def variant_17_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,e5e5332a4ba604a0948c0f7f9feda8d5,20250327_160057,1.0
+"def variant_17_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,e5e5332a4ba604a0948c0f7f9feda8d5,20250327_160057,1.0
+"def variant_18_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,f10373fc6d0892173bd54990d088ec19,20250327_160057,1.0
+"def variant_18_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,f10373fc6d0892173bd54990d088ec19,20250327_160057,1.0
+"def variant_18_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,f10373fc6d0892173bd54990d088ec19,20250327_160057,1.0
+"def variant_19_reverse(s)
+    return s[-1]",,1,synthetic,missing_colon,55ba2ea632fb9da8db7ef0c027d805d8,20250327_160057,1.0
+"def variant_19_reverses:
+    return s[::-1]",,1,synthetic,missing_paren,55ba2ea632fb9da8db7ef0c027d805d8,20250327_160057,1.0
+"def variant_19_reverse(s):
+    retrun s[::-1]",,1,synthetic,name_error,55ba2ea632fb9da8db7ef0c027d805d8,20250327_160057,1.0
+"def variant_0_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,4dfe542e8c748459e22947b75fa902f5,20250327_160057,1.0
+"def variant_0_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,4dfe542e8c748459e22947b75fa902f5,20250327_160057,1.0
+"def variant_0_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,4dfe542e8c748459e22947b75fa902f5,20250327_160057,1.0
+"def variant_1_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,c091a973bdad93caa4643b1d8ae0d8fb,20250327_160057,1.0
+"def variant_1_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,c091a973bdad93caa4643b1d8ae0d8fb,20250327_160057,1.0
+"def variant_1_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,c091a973bdad93caa4643b1d8ae0d8fb,20250327_160057,1.0
+"def variant_2_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,6160b19f7189394134dc0a07d2f43d52,20250327_160057,1.0
+"def variant_2_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,6160b19f7189394134dc0a07d2f43d52,20250327_160057,1.0
+"def variant_2_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,6160b19f7189394134dc0a07d2f43d52,20250327_160057,1.0
+"def variant_3_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,7cb7ffd774dfc983c22a048f8b356d89,20250327_160057,1.0
+"def variant_3_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,7cb7ffd774dfc983c22a048f8b356d89,20250327_160057,1.0
+"def variant_3_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,7cb7ffd774dfc983c22a048f8b356d89,20250327_160057,1.0
+"def variant_4_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,2ae47b3e47e42fc8aa7dbe216d6fbce5,20250327_160057,1.0
+"def variant_4_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,2ae47b3e47e42fc8aa7dbe216d6fbce5,20250327_160057,1.0
+"def variant_4_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,2ae47b3e47e42fc8aa7dbe216d6fbce5,20250327_160057,1.0
+"def variant_5_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,72f9ed38bd2931b76b124df2ae7cae04,20250327_160057,1.0
+"def variant_5_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,72f9ed38bd2931b76b124df2ae7cae04,20250327_160057,1.0
+"def variant_5_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,72f9ed38bd2931b76b124df2ae7cae04,20250327_160057,1.0
+"def variant_6_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,7a47aa8577c8d8029315691c009a5590,20250327_160057,1.0
+"def variant_6_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,7a47aa8577c8d8029315691c009a5590,20250327_160057,1.0
+"def variant_6_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,7a47aa8577c8d8029315691c009a5590,20250327_160057,1.0
+"def variant_7_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,4928bfda203cec796f39916d895d28f2,20250327_160057,1.0
+"def variant_7_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,4928bfda203cec796f39916d895d28f2,20250327_160057,1.0
+"def variant_7_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,4928bfda203cec796f39916d895d28f2,20250327_160057,1.0
+"def variant_8_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,6de330900a0ae265c71b57744f294490,20250327_160057,1.0
+"def variant_8_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,6de330900a0ae265c71b57744f294490,20250327_160057,1.0
+"def variant_8_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,6de330900a0ae265c71b57744f294490,20250327_160057,1.0
+"def variant_9_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,4ecee67360043bacf74fea731587af92,20250327_160057,1.0
+"def variant_9_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,4ecee67360043bacf74fea731587af92,20250327_160057,1.0
+"def variant_9_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,4ecee67360043bacf74fea731587af92,20250327_160057,1.0
+"def variant_10_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,d97efeddb7d3f07cfdb24ac5837cd9a8,20250327_160057,1.0
+"def variant_10_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,d97efeddb7d3f07cfdb24ac5837cd9a8,20250327_160057,1.0
+"def variant_10_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,d97efeddb7d3f07cfdb24ac5837cd9a8,20250327_160057,1.0
+"def variant_11_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,dd183dbdb48b9282717825ee1eec1bdd,20250327_160057,1.0
+"def variant_11_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,dd183dbdb48b9282717825ee1eec1bdd,20250327_160057,1.0
+"def variant_11_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,dd183dbdb48b9282717825ee1eec1bdd,20250327_160057,1.0
+"def variant_12_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,c7f7f2047d4e66e8c7b2e0d0b8b3ac8a,20250327_160057,1.0
+"def variant_12_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,c7f7f2047d4e66e8c7b2e0d0b8b3ac8a,20250327_160057,1.0
+"def variant_12_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,c7f7f2047d4e66e8c7b2e0d0b8b3ac8a,20250327_160057,1.0
+"def variant_13_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,5f504a1131377a551724a7101adadf3c,20250327_160057,1.0
+"def variant_13_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,5f504a1131377a551724a7101adadf3c,20250327_160057,1.0
+"def variant_13_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,5f504a1131377a551724a7101adadf3c,20250327_160057,1.0
+"def variant_14_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,6f1f51528604e9924524ed857bf7d21c,20250327_160057,1.0
+"def variant_14_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,6f1f51528604e9924524ed857bf7d21c,20250327_160057,1.0
+"def variant_14_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,6f1f51528604e9924524ed857bf7d21c,20250327_160057,1.0
+"def variant_15_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,7ffbab1f19ffd03d02657b398452edde,20250327_160057,1.0
+"def variant_15_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,7ffbab1f19ffd03d02657b398452edde,20250327_160057,1.0
+"def variant_15_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,7ffbab1f19ffd03d02657b398452edde,20250327_160057,1.0
+"def variant_16_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,da39d57d42365ff08be50b8b2ea7ebca,20250327_160057,1.0
+"def variant_16_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,da39d57d42365ff08be50b8b2ea7ebca,20250327_160057,1.0
+"def variant_16_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,da39d57d42365ff08be50b8b2ea7ebca,20250327_160057,1.0
+"def variant_17_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,b63d0dd1aa6cc431c5c2351b56ff215d,20250327_160057,1.0
+"def variant_17_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,b63d0dd1aa6cc431c5c2351b56ff215d,20250327_160057,1.0
+"def variant_17_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,b63d0dd1aa6cc431c5c2351b56ff215d,20250327_160057,1.0
+"def variant_18_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,4d9c64303ca921b3a8e54a81927254d6,20250327_160057,1.0
+"def variant_18_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,4d9c64303ca921b3a8e54a81927254d6,20250327_160057,1.0
+"def variant_18_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,4d9c64303ca921b3a8e54a81927254d6,20250327_160057,1.0
+"def variant_19_is_even(n)
+    return n % 2 == 0",,1,synthetic,missing_colon,09a1b1f3177ce5ff9c8a2f2450a76080,20250327_160057,1.0
+"def variant_19_is_evenn:
+    return n % 2 == 0",,1,synthetic,missing_paren,09a1b1f3177ce5ff9c8a2f2450a76080,20250327_160057,1.0
+"def variant_19_is_even(n):
+    retrun n % 2 == 0",,1,synthetic,name_error,09a1b1f3177ce5ff9c8a2f2450a76080,20250327_160057,1.0
+"def variant_0_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,ec8ac4b72509e554bd296f8aab294015,20250327_160057,1.0
+"def variant_0_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,ec8ac4b72509e554bd296f8aab294015,20250327_160057,1.0
+"def variant_0_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,ec8ac4b72509e554bd296f8aab294015,20250327_160057,1.0
+"def variant_1_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,361b662c56b67c6cfef08174efb435a6,20250327_160057,1.0
+"def variant_1_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,361b662c56b67c6cfef08174efb435a6,20250327_160057,1.0
+"def variant_1_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,361b662c56b67c6cfef08174efb435a6,20250327_160057,1.0
+"def variant_2_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,d23d0f2fed26d51bac105f2078a4fbad,20250327_160057,1.0
+"def variant_2_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,d23d0f2fed26d51bac105f2078a4fbad,20250327_160057,1.0
+"def variant_2_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,d23d0f2fed26d51bac105f2078a4fbad,20250327_160057,1.0
+"def variant_3_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,956bb33f495847e7ab8bb0b37af2ee72,20250327_160057,1.0
+"def variant_3_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,956bb33f495847e7ab8bb0b37af2ee72,20250327_160057,1.0
+"def variant_3_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,956bb33f495847e7ab8bb0b37af2ee72,20250327_160057,1.0
+"def variant_4_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,737798c7300b5c423890dd567bc0ca1a,20250327_160057,1.0
+"def variant_4_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,737798c7300b5c423890dd567bc0ca1a,20250327_160057,1.0
+"def variant_4_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,737798c7300b5c423890dd567bc0ca1a,20250327_160057,1.0
+"def variant_5_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,ab24a9898b4e44cac58119911569bcff,20250327_160057,1.0
+"def variant_5_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,ab24a9898b4e44cac58119911569bcff,20250327_160057,1.0
+"def variant_5_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,ab24a9898b4e44cac58119911569bcff,20250327_160057,1.0
+"def variant_6_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,08f203fe346b3c5174e792d7bab93824,20250327_160057,1.0
+"def variant_6_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,08f203fe346b3c5174e792d7bab93824,20250327_160057,1.0
+"def variant_6_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,08f203fe346b3c5174e792d7bab93824,20250327_160057,1.0
+"def variant_7_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,b70e711469b430a885b95826ae147ffe,20250327_160057,1.0
+"def variant_7_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,b70e711469b430a885b95826ae147ffe,20250327_160057,1.0
+"def variant_7_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,b70e711469b430a885b95826ae147ffe,20250327_160057,1.0
+"def variant_8_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,00f08514cecf982eacdaaabdf2135ff7,20250327_160057,1.0
+"def variant_8_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,00f08514cecf982eacdaaabdf2135ff7,20250327_160057,1.0
+"def variant_8_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,00f08514cecf982eacdaaabdf2135ff7,20250327_160057,1.0
+"def variant_9_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,adcebb38e46ffaa78a9555267c9eb54e,20250327_160057,1.0
+"def variant_9_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,adcebb38e46ffaa78a9555267c9eb54e,20250327_160057,1.0
+"def variant_9_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,adcebb38e46ffaa78a9555267c9eb54e,20250327_160057,1.0
+"def variant_10_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,d8de904aa0ee397ac8f3311714fd3cfa,20250327_160057,1.0
+"def variant_10_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,d8de904aa0ee397ac8f3311714fd3cfa,20250327_160057,1.0
+"def variant_10_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,d8de904aa0ee397ac8f3311714fd3cfa,20250327_160057,1.0
+"def variant_11_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,2faa01075fe080d77cabe48a6555d5fb,20250327_160057,1.0
+"def variant_11_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,2faa01075fe080d77cabe48a6555d5fb,20250327_160057,1.0
+"def variant_11_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,2faa01075fe080d77cabe48a6555d5fb,20250327_160057,1.0
+"def variant_12_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,2f6e2a766edcc0cea7fbfff40860362c,20250327_160057,1.0
+"def variant_12_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,2f6e2a766edcc0cea7fbfff40860362c,20250327_160057,1.0
+"def variant_12_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,2f6e2a766edcc0cea7fbfff40860362c,20250327_160057,1.0
+"def variant_13_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,e69330c7a159e5f384194a07e43a5043,20250327_160057,1.0
+"def variant_13_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,e69330c7a159e5f384194a07e43a5043,20250327_160057,1.0
+"def variant_13_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,e69330c7a159e5f384194a07e43a5043,20250327_160057,1.0
+"def variant_14_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,592e1414c58581816c87d7475363507f,20250327_160057,1.0
+"def variant_14_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,592e1414c58581816c87d7475363507f,20250327_160057,1.0
+"def variant_14_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,592e1414c58581816c87d7475363507f,20250327_160057,1.0
+"def variant_15_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,331e17ec5133482400ba73e16616dae2,20250327_160057,1.0
+"def variant_15_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,331e17ec5133482400ba73e16616dae2,20250327_160057,1.0
+"def variant_15_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,331e17ec5133482400ba73e16616dae2,20250327_160057,1.0
+"def variant_16_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,e03631f2e7851331c1fec4e722bb4cf3,20250327_160057,1.0
+"def variant_16_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,e03631f2e7851331c1fec4e722bb4cf3,20250327_160057,1.0
+"def variant_16_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,e03631f2e7851331c1fec4e722bb4cf3,20250327_160057,1.0
+"def variant_17_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,d7828ca04ce32abdc29b0f961e47929c,20250327_160057,1.0
+"def variant_17_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,d7828ca04ce32abdc29b0f961e47929c,20250327_160057,1.0
+"def variant_17_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,d7828ca04ce32abdc29b0f961e47929c,20250327_160057,1.0
+"def variant_18_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,623736a1ed8eb640da28338451cf411f,20250327_160057,1.0
+"def variant_18_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,623736a1ed8eb640da28338451cf411f,20250327_160057,1.0
+"def variant_18_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,623736a1ed8eb640da28338451cf411f,20250327_160057,1.0
+"def variant_19_list_sum(lst)
+    return sum(lst)",,1,synthetic,missing_colon,018eceb100e857143820c00bfb0be9a0,20250327_160057,1.0
+"def variant_19_list_sumlst:
+    return sumlst",,1,synthetic,missing_paren,018eceb100e857143820c00bfb0be9a0,20250327_160057,1.0
+"def variant_19_list_sum(lst):
+    retrun sum(lst)",,1,synthetic,name_error,018eceb100e857143820c00bfb0be9a0,20250327_160057,1.0
+"def variant_0_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,6be9e5e1c0c1fe5d5db100eb31e08b3a,20250327_160057,1.0
+"def variant_0_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,6be9e5e1c0c1fe5d5db100eb31e08b3a,20250327_160057,1.0
+"def variant_0_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,6be9e5e1c0c1fe5d5db100eb31e08b3a,20250327_160057,1.0
+"def variant_1_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,2ddbb647eab70fa7ee3109392f711a0c,20250327_160057,1.0
+"def variant_1_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,2ddbb647eab70fa7ee3109392f711a0c,20250327_160057,1.0
+"def variant_1_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,2ddbb647eab70fa7ee3109392f711a0c,20250327_160057,1.0
+"def variant_2_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,bec28a7634734e407ffc6e161ef95fdc,20250327_160057,1.0
+"def variant_2_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,bec28a7634734e407ffc6e161ef95fdc,20250327_160057,1.0
+"def variant_2_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,bec28a7634734e407ffc6e161ef95fdc,20250327_160057,1.0
+"def variant_3_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,d6a8ef5bd2bfbd65099f647de7970e3a,20250327_160057,1.0
+"def variant_3_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,d6a8ef5bd2bfbd65099f647de7970e3a,20250327_160057,1.0
+"def variant_3_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,d6a8ef5bd2bfbd65099f647de7970e3a,20250327_160057,1.0
+"def variant_4_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,d82932fdbdb4eb0842b71948874cdf13,20250327_160057,1.0
+"def variant_4_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,d82932fdbdb4eb0842b71948874cdf13,20250327_160057,1.0
+"def variant_4_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,d82932fdbdb4eb0842b71948874cdf13,20250327_160057,1.0
+"def variant_5_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,214e2a0d3a47d946b7093c51cbed3a16,20250327_160057,1.0
+"def variant_5_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,214e2a0d3a47d946b7093c51cbed3a16,20250327_160057,1.0
+"def variant_5_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,214e2a0d3a47d946b7093c51cbed3a16,20250327_160057,1.0
+"def variant_6_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,3e74638dea772c63de207ec83e987cd8,20250327_160057,1.0
+"def variant_6_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,3e74638dea772c63de207ec83e987cd8,20250327_160057,1.0
+"def variant_6_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,3e74638dea772c63de207ec83e987cd8,20250327_160057,1.0
+"def variant_7_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,adc9f35bedaf86adfc6e5df043943495,20250327_160057,1.0
+"def variant_7_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,adc9f35bedaf86adfc6e5df043943495,20250327_160057,1.0
+"def variant_7_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,adc9f35bedaf86adfc6e5df043943495,20250327_160057,1.0
+"def variant_8_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,295c4be3eeb9bec7ee7aacf0989f7ce9,20250327_160057,1.0
+"def variant_8_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,295c4be3eeb9bec7ee7aacf0989f7ce9,20250327_160057,1.0
+"def variant_8_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,295c4be3eeb9bec7ee7aacf0989f7ce9,20250327_160057,1.0
+"def variant_9_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,4dae98a02d0af038dff1cdf43bb9f0b0,20250327_160057,1.0
+"def variant_9_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,4dae98a02d0af038dff1cdf43bb9f0b0,20250327_160057,1.0
+"def variant_9_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,4dae98a02d0af038dff1cdf43bb9f0b0,20250327_160057,1.0
+"def variant_10_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,6cfc95bc6cc4f8c408722fb484846c67,20250327_160057,1.0
+"def variant_10_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,6cfc95bc6cc4f8c408722fb484846c67,20250327_160057,1.0
+"def variant_10_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,6cfc95bc6cc4f8c408722fb484846c67,20250327_160057,1.0
+"def variant_11_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,38262eab7cf0be2c616ebff5e315e604,20250327_160057,1.0
+"def variant_11_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,38262eab7cf0be2c616ebff5e315e604,20250327_160057,1.0
+"def variant_11_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,38262eab7cf0be2c616ebff5e315e604,20250327_160057,1.0
+"def variant_12_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,49a8b197925d86726fa80e88deeee604,20250327_160057,1.0
+"def variant_12_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,49a8b197925d86726fa80e88deeee604,20250327_160057,1.0
+"def variant_12_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,49a8b197925d86726fa80e88deeee604,20250327_160057,1.0
+"def variant_13_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,16c497ec284ae102e21b32d3ce5a8b7d,20250327_160057,1.0
+"def variant_13_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,16c497ec284ae102e21b32d3ce5a8b7d,20250327_160057,1.0
+"def variant_13_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,16c497ec284ae102e21b32d3ce5a8b7d,20250327_160057,1.0
+"def variant_14_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,6e44db69b4ddafeb0b4af1ec93074376,20250327_160057,1.0
+"def variant_14_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,6e44db69b4ddafeb0b4af1ec93074376,20250327_160057,1.0
+"def variant_14_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,6e44db69b4ddafeb0b4af1ec93074376,20250327_160057,1.0
+"def variant_15_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,232b0ffcf77680f6fd8f1b10bf3a1d82,20250327_160057,1.0
+"def variant_15_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,232b0ffcf77680f6fd8f1b10bf3a1d82,20250327_160057,1.0
+"def variant_15_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,232b0ffcf77680f6fd8f1b10bf3a1d82,20250327_160057,1.0
+"def variant_16_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,0562799d52ebd1848135f1f16da144b5,20250327_160057,1.0
+"def variant_16_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,0562799d52ebd1848135f1f16da144b5,20250327_160057,1.0
+"def variant_16_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,0562799d52ebd1848135f1f16da144b5,20250327_160057,1.0
+"def variant_17_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,0bd3ffeee57ac0bdafef0d461afc52c8,20250327_160057,1.0
+"def variant_17_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,0bd3ffeee57ac0bdafef0d461afc52c8,20250327_160057,1.0
+"def variant_17_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,0bd3ffeee57ac0bdafef0d461afc52c8,20250327_160057,1.0
+"def variant_18_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,97b7d2cb711d43beb006270f8e90345a,20250327_160057,1.0
+"def variant_18_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,97b7d2cb711d43beb006270f8e90345a,20250327_160057,1.0
+"def variant_18_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,97b7d2cb711d43beb006270f8e90345a,20250327_160057,1.0
+"def variant_19_safe_divide(a, b)
+    try
+        return a / b
+    except ZeroDivisionError
+        return None",,1,synthetic,missing_colon,fa908a801733d3cc2c03edf2d26e76aa,20250327_160057,1.0
+"def variant_19_safe_dividea, b:
+    try:
+        return a / b
+    except ZeroDivisionError:
+        return None",,1,synthetic,missing_paren,fa908a801733d3cc2c03edf2d26e76aa,20250327_160057,1.0
+"def variant_19_safe_divide(a, b):
+    try:
+        retrun a / b
+    except ZeroDivisionError:
+        retrun None",,1,synthetic,name_error,fa908a801733d3cc2c03edf2d26e76aa,20250327_160057,1.0
